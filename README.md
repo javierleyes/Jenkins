@@ -56,4 +56,4 @@ docker container restart jenkins
 
 Done!
 
-## Now, you can install your favourite plugins!
+#### Now, you can install your favorite plugins!
