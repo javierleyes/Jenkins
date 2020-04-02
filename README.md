@@ -18,7 +18,7 @@ Example:
 docker run --name JenkinsTest -p 8080:8080 -p 5000:5000 -v C:\Jenkins:/var/jenkins_home jenkins
 ```
 
-Finish process from web browser
+Finish process from web browser (enter localhost:8080 from your web browser)
 
 # Update Jenkins to the last version
 
@@ -55,3 +55,5 @@ docker container restart jenkins
 ```
 
 Done!
+
+## Now, you can install your favourite plugins!
