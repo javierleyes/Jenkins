@@ -63,10 +63,10 @@ pipeline {
 
         stage('Condicional') {
             when {
-                not { branch "master" }
+                branch "master" 
             }
             steps {
-                echo 'This branch is nott master'
+                echo 'This branch is master'
             }
         }
     }
