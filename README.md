@@ -20,7 +20,7 @@ docker run --name JenkinsTest -p 8080:8080 -p 5000:5000 -v C:\Jenkins:/var/jenki
 
 Finish process from web browser (enter localhost:8080 from your web browser)
 
-# Update Jenkins to the last version
+# Upgrade Jenkins to new version
 
 Execute on other powershell tab:
 
